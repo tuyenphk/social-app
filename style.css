@@ -620,8 +620,12 @@ body {
 
 .album-photos {
   display: flex;
-  margin-top: 20px;
+  margin-top: 10px;
   max-height: 30vh;
+}
+
+.right{
+  margin-left: 10px;
 }
 
 .album-photos > .album-photo {
